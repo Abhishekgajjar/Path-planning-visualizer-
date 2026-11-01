@@ -1,6 +1,6 @@
 # Path-planning-visualizer-
 A Python Pygame-based pathfinding visualizer that compares A* Search and Dijkstra's Algorithm side by side, featuring interactive obstacles, shortest-path visualization, and a performance dashboard.
-[README.md](https://github.com/user-attachments/files/34237704/README.md)
+(https://github.com/user-attachments/files/34237704/README.md)
 # Path Planning Visualizer: A* vs Dijkstra
 
 An interactive Pygame project that runs A* and Dijkstra on the same grid and compares their performance.
