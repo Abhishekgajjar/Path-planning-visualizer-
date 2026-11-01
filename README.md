@@ -6,7 +6,7 @@ A Python Pygame-based pathfinding visualizer that compares A* Search and Dijkstr
 An interactive Pygame project that runs A* and Dijkstra on the same grid and compares their performance.
 
 ## Requirements
-- Python 3.10+
+- Python 3.10+ //only use py 3.13v
 - Pygame 2.6+
 
 ## Install
